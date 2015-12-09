@@ -1,4 +1,4 @@
-### Boston Symphony Orchestra full performance archive
+### Boston Symphony Orchestra complete performance archive
 #### With full composer data
 
 A combination of the BSO performance archive data with detailed information about each composer in the dataset
