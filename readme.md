@@ -30,7 +30,7 @@ wikidata ID, Library of Congress authority ID, VIAF ID,
 wikipedia link
 ```
 
-There is such composer data for the vast majority of performances, however there are still a number of composers remaining unidentified.
+There is such composer data for the vast majority of performances, however there are still a relatively long tail of less-popular composers who remain unidentified.
 
 I've additionally added a unique "performance id" to each set of pieces performed together in a given day. 
 
