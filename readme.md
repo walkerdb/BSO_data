@@ -7,24 +7,24 @@ Each row in the csv data has 23 fields. The following are from the original BSO 
 
 ```
 Date, 
-Season, 
+Season (eg 1889-90), 
 Composer name (in form used by BSO), 
 Work, 
 Soloist / Instrument, 
 Conductor,
-Orchestra, 
-Venue, 
-City
+Orchestra performing, 
+Venue of performance, 
+City of performance
 ```
 
-And are combined with the following new composer-specific information:
+And the following are the added composer-specific fields:
 
 ```
 Name (in standard form), 
-gender, 
+gender (0 = male, 1 = female), 
 birth year, birth date, 
 death year, death date, 
-sexual identity, 
+sexual identity (not known for most; = 0 for composers identifying as heterosexual, 1 for gay, and 2 for bi), 
 country of citizenship, 
 wikidata ID, Library of Congress authority ID, VIAF ID, 
 wikipedia link
